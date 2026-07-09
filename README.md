@@ -1,6 +1,6 @@
 -Olá, meu nome é Felipe Vasconcellos 👋
 
-👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas entusiasmado em resolver problemas e explorar novas tecnologias. Pronto para colaborar em projetos inovadores.
+👨‍💻 Graduado em Análise e Desenvolvimento de Sistemas entusiasmado em resolver problemas e explorar novas tecnologias. Pronto para colaborar em projetos inovadores.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
